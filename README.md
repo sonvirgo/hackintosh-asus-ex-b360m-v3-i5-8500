@@ -1,4 +1,4 @@
-2# hackintosh-asus-ex-b360m-v3-i5-8500
+# hackintosh-asus-ex-b360m-v3-i5-8500
 Sonoma
 ![image](https://github.com/sonvirgo/hackintosh-asus-ex-b360m-v3-i5-8500/assets/10823037/d7d2eb1b-4203-43ee-8bc4-5340651349cd)
 
